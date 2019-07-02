@@ -11,5 +11,8 @@ que, de 5050 entradas existentes, tan solo 2361 entradas no son divisibles por 7
 ## Solucion
 - [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ezZx6U_HDWpMx_OvUqwSsJBQkm6YIdWI)
 
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lcarcamo1526/Credyty-test/master?filepath=Credity-Punto-5.ipynb)
+
+
 
 
