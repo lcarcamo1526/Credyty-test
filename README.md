@@ -7,3 +7,6 @@ Si hacemos este mismo ejercicio para las primeras 100 filas del triángulo, enco
 que, de 5050 entradas existentes, tan solo 2361 entradas no son divisibles por 7.
 
 ¿Cuántas entradas de las primeras mil millones de filas (10^9 ) no son divisibles por 7?
+
+## Solucion
+
